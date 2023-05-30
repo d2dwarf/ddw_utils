@@ -1,6 +1,6 @@
 [package]
 name = "ddw_utils"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["DDW<d2dwarf@gmail.com>"]
 description = "Utilities written for testing"
